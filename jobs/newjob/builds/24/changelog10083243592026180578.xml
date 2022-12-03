@@ -1,0 +1,18 @@
+commit ff18847bee532856d0a49ecabf1fc67591e21dfe
+tree dbb6dba06f1663d654d9846822461bdfafa728ea
+parent abe3dcc09879b797cc86604448ee4f34a8680207
+author syedwaliuddin <118277391+syedwaliuddin@users.noreply.github.com> 2022-12-03 11:16:30 +0530
+committer GitHub <noreply@github.com> 2022-12-03 11:16:30 +0530
+
+    Update Jenkinsfile2
+
+:100644 100644 4f8af386313ef0319f915956e06a3762a011b2ff 56e9c8860cc8af4b6fc034bb5edf3ee4b1c22b1f M	Jenkinsfile2
+commit abe3dcc09879b797cc86604448ee4f34a8680207
+tree 57f9f99b1322f801784358b5785b42cb202b5127
+parent efdbd21aeaa9a1f7b7dd68d7851514d8b2e3b850
+author syedwaliuddin <118277391+syedwaliuddin@users.noreply.github.com> 2022-12-03 11:13:36 +0530
+committer GitHub <noreply@github.com> 2022-12-03 11:13:36 +0530
+
+    Update pom.xml
+
+:100644 100644 33c466c137c91a0573de9ac7aeea8071b8b0acec faa45d49da2fc21e9c8b167e46b33695a78662e4 M	pom.xml

@@ -1,0 +1,9 @@
+commit 61d255612792196d65438a3d9bf21bb3caad0f01
+tree 04cbac90ea9ad35c6aade99eb1bf81904e469d51
+parent fb1d006e47fc57139a886578aaf1c07623d035b1
+author syedwaliuddin <118277391+syedwaliuddin@users.noreply.github.com> 2022-12-03 10:09:08 +0530
+committer GitHub <noreply@github.com> 2022-12-03 10:09:08 +0530
+
+    Update Jenkinsfile2
+
+:100644 100644 0a6c76dec9238781b214c7045e24dd04a4b4a121 4f8af386313ef0319f915956e06a3762a011b2ff M	Jenkinsfile2

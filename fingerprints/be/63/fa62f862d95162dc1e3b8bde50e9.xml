@@ -1,0 +1,14 @@
+<?xml version='1.1' encoding='UTF-8'?>
+<fingerprint>
+  <timestamp>2022-12-03 05:11:49.489 UTC</timestamp>
+  <md5sum>be63fa62f862d95162dc1e3b8bde50e9</md5sum>
+  <fileName>Credential id=23b0cc08-6fa8-43d0-8328-b8ccad135f12 name=wali/******</fileName>
+  <usages/>
+  <facets>
+    <com.cloudbees.plugins.credentials.fingerprints.NodeCredentialsFingerprintFacet plugin="credentials@1214.v1de940103927">
+      <timestamp>1670055621876</timestamp>
+      <nodeName>deploy-wali</nodeName>
+      <timestamp0>1670055381879</timestamp0>
+    </com.cloudbees.plugins.credentials.fingerprints.NodeCredentialsFingerprintFacet>
+  </facets>
+</fingerprint>

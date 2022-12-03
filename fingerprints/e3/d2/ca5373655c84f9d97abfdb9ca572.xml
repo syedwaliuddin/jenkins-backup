@@ -1,0 +1,14 @@
+<?xml version='1.1' encoding='UTF-8'?>
+<fingerprint>
+  <timestamp>2022-12-03 04:40:35.576 UTC</timestamp>
+  <md5sum>e3d2ca5373655c84f9d97abfdb9ca572</md5sum>
+  <fileName>Credential id=013d39e7-1574-4c53-b7b1-81ad5d9ff985 name=syed/******</fileName>
+  <usages/>
+  <facets>
+    <com.cloudbees.plugins.credentials.fingerprints.NodeCredentialsFingerprintFacet plugin="credentials@1214.v1de940103927">
+      <timestamp>1670043556487</timestamp>
+      <nodeName>build-syed</nodeName>
+      <timestamp0>1670042731023</timestamp0>
+    </com.cloudbees.plugins.credentials.fingerprints.NodeCredentialsFingerprintFacet>
+  </facets>
+</fingerprint>
